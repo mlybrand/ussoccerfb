@@ -1,6 +1,8 @@
 ## User Types
 * [Admin](admin.md)
-* [Fan](fan.md)
-* [Player](player.md)
-* [Parent](parent.md)
+* [League Coordinator](leaguecoord.md)
 * [Coach](coach.md)
+* [Parent](parent.md)
+* [Player](player.md)
+* [Fan](fan.md)
+* [Advertiser](advertiser.md)
