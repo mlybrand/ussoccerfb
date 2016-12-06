@@ -1,4 +1,5 @@
 ## User Types
+* [User](user.md)
 * [Admin](admin.md)
 * [League Coordinator](leaguecoord.md)
 * [Coach](coach.md)
